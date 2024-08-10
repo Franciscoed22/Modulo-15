@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "sourceRoot": "",
+    "sources": [
+        "scss/_reset.scss",
+        "scss/_header.scss",
+        "scss/_variables.scss",
+        "scss/_products.scss",
+        "scss/_media-queries.scss"
+    ],
+    "names": [],
+    "mappings": "AACA;EACI;EACA;EACA;EACA;;;ACJJ;EACI,kBCDY;EDEZ;EACA;EACA;;AAEA;EACE;EACA;EACA;EACA;;AAGF;EACE;;AAEA;EACE;EACA,aCRQ;;ADUR;EACE;EACA;;;AEtBV;EACI;;AAEA;EACE,YDOS;ECNT;EACA;EACA;EACA;EACA;;AAGE;EACE;EACA,eDDY;;ACId;EACE;EACA,kBDlBQ;ECmBR;EACA;EACA;EACA,eDXY;ECYZ,YDfK;ECgBL;;AAEA;EACE,kBD1BE;;;AEFd;EACI;IACE;;EAGF;IACE;IACA;;;AAIJ;EACE;IACE;;EAEA;IACE",
+    "file": "styles.css"
+}
